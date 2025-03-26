@@ -1,7 +1,7 @@
 # Controle de Manutenção de Equipamentos
 
 ## Descrição
-Este projeto, desenvolvido em C# e utilizando SQL Server como banco de dados, visa otimizar o processo de controle de manutenção de equipamentos de informática. A aplicação permite que usuários registrem chamados técnicos, os quais são transformados em Ordens de Serviço e atribuídas a técnicos para resolução.
+Este projeto foi meu TCC de Análise e Desenvolvimento de Sistemas, desenvolvido em C# e utilizando SQL Server como banco de dados, visa otimizar o processo de controle de manutenção de equipamentos de informática. A aplicação permite que usuários registrem chamados técnicos, os quais são transformados em Ordens de Serviço e atribuídas a técnicos para resolução.
 
 ## Funcionalidades
 * **Cadastro de Usuários:** Permite cadastrar novos usuários e definir seus perfis (técnico, usuário final).
